@@ -1,4 +1,4 @@
-#Pinhau
+# Pinhau
 
 
 A proposta veio após analisarmos o site de adoção virtual da prefeitura de Pinhais. Embora o site ofereça uma plataforma básica, acreditamos que suas funcionalidades são limitadas para atender plenamente às necessidades de quem deseja adotar um animal. Essa simplicidade pode desmotivar potenciais adotantes, especialmente aqueles que precisam de uma experiência ágil e intuitiva para concretizar a adoção.
